@@ -1,0 +1,101 @@
+Incident_ID,Country,Year,Attack Type,Financial Loss (in Million $)
+1001,UK,2024,Ransomware,41.44
+1002,UK,2023,DDoS,69.14
+1003,France,2023,DDoS,58.37
+1004,France,2024,DDoS,48.01
+1005,Brazil,2023,DDoS,51.84
+1006,France,2024,Phishing,5.8
+1007,Australia,2024,Malware,62.08
+1008,UK,2023,DDoS,81.26
+1009,Australia,2023,Malware,1.51
+1010,Japan,2023,Malware,22.87
+1011,Brazil,2023,Man-in-the-Middle,10.18
+1012,UK,2024,Phishing,81.26
+1013,UK,2023,SQL Injection,85.64
+1014,Russia,2024,Malware,93.33
+1015,Brazil,2023,SQL Injection,56.76
+1016,Australia,2023,DDoS,76.25
+1017,Germany,2024,Phishing,3.93
+1018,Australia,2024,Ransomware,39.92
+1019,China,2024,Ransomware,70.47
+1020,France,2023,Malware,53.34
+1021,Russia,2023,Ransomware,60.08
+1022,Germany,2024,Malware,22.84
+1023,India,2023,Phishing,11.72
+1024,France,2024,Ransomware,78.82
+1025,Australia,2024,Phishing,73.43
+1026,Australia,2023,SQL Injection,99.19
+1027,Germany,2023,Man-in-the-Middle,87.83
+1028,China,2024,Phishing,4.01
+1029,Russia,2023,SQL Injection,3.66
+1030,Russia,2024,Ransomware,80.11
+1031,Japan,2023,Man-in-the-Middle,64.21
+1032,India,2023,Ransomware,3.51
+1033,Brazil,2024,DDoS,55.73
+1034,UK,2023,SQL Injection,53.82
+1035,Germany,2024,Malware,93.49
+1036,China,2024,DDoS,11.92
+1037,Brazil,2023,Man-in-the-Middle,74.85
+1038,Germany,2023,SQL Injection,30.68
+1039,Australia,2023,Man-in-the-Middle,92.57
+1040,Japan,2024,Phishing,72.2
+1041,UK,2024,DDoS,88.54
+1042,Germany,2023,Phishing,88.55
+1043,Japan,2024,Man-in-the-Middle,9.77
+1044,Brazil,2024,SQL Injection,33.06
+1045,France,2023,SQL Injection,69.76
+1046,China,2024,DDoS,69.28
+1047,China,2024,Phishing,9.45
+1048,Brazil,2023,SQL Injection,47.59
+1049,Brazil,2024,DDoS,36.69
+1050,Japan,2024,Ransomware,37.49
+1051,Brazil,2023,Ransomware,66.38
+1052,China,2024,SQL Injection,84.23
+1053,Brazil,2023,SQL Injection,97.37
+1054,Germany,2023,Malware,70.19
+1055,Russia,2023,Malware,98.07
+1056,Japan,2023,Phishing,68.28
+1057,USA,2023,Ransomware,34.94
+1058,Russia,2024,Phishing,25.7
+1059,China,2024,DDoS,22.45
+1060,Germany,2024,Phishing,90.21
+1061,USA,2024,Ransomware,16.61
+1062,Brazil,2024,Ransomware,71.55
+1063,Brazil,2024,Man-in-the-Middle,27.13
+1064,Brazil,2023,Ransomware,4.6
+1065,Germany,2023,DDoS,51.49
+1066,Australia,2023,DDoS,31.48
+1067,Australia,2024,Phishing,70.52
+1068,UK,2024,Man-in-the-Middle,56.23
+1069,Australia,2024,Ransomware,44.95
+1070,India,2023,Ransomware,18.53
+1071,China,2024,Ransomware,72.61
+1072,Australia,2023,SQL Injection,42.5
+1073,Japan,2024,DDoS,99.28
+1074,Germany,2023,SQL Injection,6.09
+1075,Brazil,2023,Man-in-the-Middle,90.37
+1076,Brazil,2023,Malware,61.56
+1077,India,2024,Phishing,23.32
+1078,Japan,2024,Ransomware,24.22
+1079,China,2024,DDoS,7.31
+1080,Brazil,2023,Phishing,72.57
+1081,China,2024,Malware,34.49
+1082,Brazil,2023,Malware,19.18
+1083,Japan,2024,DDoS,7.99
+1084,UK,2024,SQL Injection,54.1
+1085,UK,2023,Phishing,23.66
+1086,India,2024,Phishing,64.23
+1087,Japan,2023,Man-in-the-Middle,86.98
+1088,UK,2023,DDoS,68.86
+1089,USA,2023,Ransomware,84.13
+1090,India,2023,Phishing,38.89
+1091,Australia,2024,SQL Injection,66.49
+1092,India,2023,DDoS,23.83
+1093,France,2023,Man-in-the-Middle,9.43
+1094,USA,2024,Phishing,58.57
+1095,Japan,2023,SQL Injection,87.8
+1096,Japan,2023,SQL Injection,42.33
+1097,Russia,2024,SQL Injection,76.99
+1098,China,2023,Man-in-the-Middle,37.73
+1099,France,2023,SQL Injection,29.63
+1100,Germany,2023,Ransomware,28.18

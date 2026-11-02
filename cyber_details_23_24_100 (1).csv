@@ -1,0 +1,101 @@
+Incident_ID,Number of Affected Users,Target Industry,Attack Source,Security Vulnerability Type,Defense Mechanism Used,Incident Resolution Time (in Hours)
+1001,659320,Telecommunications,Nation-state,Social Engineering,AI-based Detection,7
+1002,685927,Healthcare,Hacker Group,Unpatched Software,Firewall,58
+1003,599797,Healthcare,Nation-state,Unpatched Software,AI-based Detection,35
+1004,922258,IT,Unknown,Social Engineering,Encryption,64
+1005,699007,Telecommunications,Hacker Group,Social Engineering,VPN,30
+1006,508649,Government,Hacker Group,Unpatched Software,Firewall,66
+1007,969504,Healthcare,Hacker Group,Social Engineering,AI-based Detection,5
+1008,547495,Banking,Nation-state,Weak Passwords,AI-based Detection,3
+1009,954902,Telecommunications,Hacker Group,Unpatched Software,AI-based Detection,55
+1010,975282,Education,Insider,Unpatched Software,Firewall,49
+1011,933883,IT,Nation-state,Social Engineering,Encryption,41
+1012,993903,Government,Unknown,Weak Passwords,Firewall,25
+1013,875790,Banking,Nation-state,Unpatched Software,Firewall,36
+1014,517610,Banking,Nation-state,Social Engineering,Firewall,35
+1015,774426,Retail,Hacker Group,Social Engineering,AI-based Detection,21
+1016,900661,Government,Insider,Unpatched Software,Encryption,64
+1017,845785,IT,Unknown,Unpatched Software,VPN,69
+1018,594424,Government,Hacker Group,Social Engineering,Antivirus,54
+1019,549337,Telecommunications,Unknown,Social Engineering,Antivirus,63
+1020,714681,Healthcare,Unknown,Unpatched Software,Firewall,34
+1021,874485,Telecommunications,Hacker Group,Weak Passwords,Antivirus,48
+1022,797768,Banking,Insider,Zero-day,Firewall,58
+1023,512291,Telecommunications,Insider,Zero-day,AI-based Detection,51
+1024,759804,Banking,Unknown,Unpatched Software,AI-based Detection,47
+1025,897569,Retail,Hacker Group,Social Engineering,AI-based Detection,66
+1026,538688,Healthcare,Nation-state,Zero-day,Encryption,36
+1027,547719,Telecommunications,Unknown,Weak Passwords,AI-based Detection,22
+1028,841054,Education,Insider,Zero-day,Antivirus,49
+1029,702942,Telecommunications,Nation-state,Unpatched Software,AI-based Detection,34
+1030,923911,Banking,Insider,Unpatched Software,Firewall,60
+1031,707978,Healthcare,Nation-state,Weak Passwords,VPN,41
+1032,661681,Telecommunications,Hacker Group,Weak Passwords,AI-based Detection,14
+1033,750979,Banking,Unknown,Social Engineering,AI-based Detection,30
+1034,688014,Telecommunications,Unknown,Zero-day,Encryption,18
+1035,702688,Government,Hacker Group,Unpatched Software,Antivirus,39
+1036,557016,Healthcare,Unknown,Zero-day,Firewall,34
+1037,549300,Retail,Hacker Group,Weak Passwords,Antivirus,26
+1038,933754,Banking,Insider,Social Engineering,Firewall,36
+1039,813789,Retail,Nation-state,Unpatched Software,Antivirus,27
+1040,555808,Education,Unknown,Weak Passwords,AI-based Detection,4
+1041,518181,Retail,Insider,Zero-day,Antivirus,24
+1042,698597,Government,Unknown,Social Engineering,Antivirus,66
+1043,621770,Retail,Insider,Unpatched Software,AI-based Detection,70
+1044,644841,Banking,Insider,Weak Passwords,Antivirus,64
+1045,824351,Healthcare,Unknown,Zero-day,Firewall,17
+1046,890675,Government,Hacker Group,Unpatched Software,Firewall,5
+1047,501864,Telecommunications,Hacker Group,Unpatched Software,Encryption,12
+1048,933271,Healthcare,Insider,Unpatched Software,Antivirus,30
+1049,738981,Telecommunications,Unknown,Social Engineering,VPN,45
+1050,835730,Retail,Insider,Zero-day,VPN,14
+1051,608520,Retail,Hacker Group,Zero-day,VPN,14
+1052,568377,Government,Unknown,Social Engineering,Antivirus,38
+1053,796195,IT,Nation-state,Social Engineering,Firewall,20
+1054,791366,Banking,Unknown,Unpatched Software,Firewall,61
+1055,608695,IT,Nation-state,Unpatched Software,AI-based Detection,31
+1056,744595,Education,Insider,Zero-day,Antivirus,44
+1057,632075,IT,Insider,Social Engineering,Encryption,64
+1058,953987,Education,Insider,Social Engineering,AI-based Detection,65
+1059,704925,IT,Unknown,Unpatched Software,AI-based Detection,52
+1060,510657,Government,Nation-state,Social Engineering,VPN,62
+1061,912183,IT,Unknown,Weak Passwords,Encryption,44
+1062,902924,IT,Unknown,Social Engineering,Encryption,12
+1063,943178,Telecommunications,Nation-state,Weak Passwords,VPN,63
+1064,762006,Government,Unknown,Weak Passwords,Antivirus,21
+1065,642699,Telecommunications,Unknown,Social Engineering,Firewall,51
+1066,771547,IT,Hacker Group,Zero-day,Antivirus,5
+1067,601198,Banking,Insider,Zero-day,Encryption,41
+1068,706469,IT,Unknown,Unpatched Software,Encryption,17
+1069,500747,Education,Insider,Unpatched Software,AI-based Detection,58
+1070,925373,IT,Insider,Zero-day,AI-based Detection,4
+1071,595380,Government,Hacker Group,Zero-day,VPN,10
+1072,933030,Education,Insider,Social Engineering,Antivirus,27
+1073,589898,Healthcare,Unknown,Weak Passwords,VPN,59
+1074,590760,Telecommunications,Unknown,Unpatched Software,Firewall,32
+1075,705678,Telecommunications,Hacker Group,Zero-day,Antivirus,57
+1076,907121,Healthcare,Unknown,Social Engineering,VPN,33
+1077,879162,Banking,Unknown,Zero-day,VPN,38
+1078,584428,Banking,Nation-state,Weak Passwords,Firewall,34
+1079,972407,Healthcare,Hacker Group,Zero-day,Encryption,51
+1080,720220,Government,Unknown,Weak Passwords,Firewall,71
+1081,897277,Retail,Unknown,Zero-day,VPN,55
+1082,993826,Government,Unknown,Zero-day,Firewall,7
+1083,805548,IT,Insider,Unpatched Software,Antivirus,10
+1084,715395,Telecommunications,Unknown,Social Engineering,VPN,60
+1085,889641,Healthcare,Hacker Group,Social Engineering,AI-based Detection,50
+1086,903871,Banking,Nation-state,Unpatched Software,Encryption,17
+1087,635827,Telecommunications,Nation-state,Social Engineering,Encryption,72
+1088,749700,IT,Nation-state,Zero-day,AI-based Detection,35
+1089,695841,Government,Nation-state,Zero-day,AI-based Detection,21
+1090,836604,Retail,Hacker Group,Unpatched Software,AI-based Detection,44
+1091,709125,Retail,Hacker Group,Weak Passwords,AI-based Detection,37
+1092,557428,Banking,Insider,Unpatched Software,VPN,38
+1093,565002,Retail,Hacker Group,Unpatched Software,Firewall,72
+1094,630793,IT,Hacker Group,Social Engineering,AI-based Detection,64
+1095,510002,Government,Hacker Group,Social Engineering,Firewall,62
+1096,643549,Retail,Nation-state,Weak Passwords,VPN,20
+1097,873037,Healthcare,Nation-state,Unpatched Software,Antivirus,31
+1098,849834,Telecommunications,Hacker Group,Zero-day,AI-based Detection,56
+1099,662667,Government,Hacker Group,Zero-day,VPN,30
+1100,707214,Healthcare,Unknown,Weak Passwords,AI-based Detection,11
